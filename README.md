@@ -1,4 +1,3 @@
-<img width="1882" height="970" alt="image" src="https://github.com/user-attachments/assets/ec01a4cf-e98d-49a1-ba56-70b223d6ff9c" /># ✍️ Handwritten Digit Recognizer
 An ML model that predicts handwritten digits using the digits dataset.  
 - Algorithm: Logistic Regression  
 - Accuracy ~97%  
